@@ -24,6 +24,7 @@ function reducer(array){
         sum += array[i] 
     }
     return sum
+
 }
 
 // console.log(reducer(myArray))
